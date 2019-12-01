@@ -1,1 +1,1 @@
-# curso-js-completo
+# Javascript Completo ES6 - Origamid 
